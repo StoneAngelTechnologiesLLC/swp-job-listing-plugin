@@ -1,0 +1,45 @@
+/*admin-jobs.css Taco Taco*/
+
+.meta-row
+{
+	border-bottom: 2px solid #c5c5c5;
+	padding: 20px;
+}
+
+.meta-th
+{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	font-weight: bold;
+	color: #8c1d40;
+}
+
+.meta-tr
+{
+	display: inline-block;
+	float: right;
+	width: 75%;
+}
+
+.meta
+{
+	margin-top: 20px;
+
+}
+
+.swp-textarea
+{
+	height: 150px;
+	width: 75%;
+}
+
+
+.quicktags-toolbar
+{
+	margin-bottom 5px;
+	display: inline-block;
+	float: left;
+	background: #ffffff; !important;
+	border-bottom: none !important;
+}
